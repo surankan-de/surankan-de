@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surankan-de
 - 👀 I’m interested in coding about various things
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently competitive coding
 - 💞️ I’m looking to collaborate on gaming... ai.. automation .etc
 - 📫 How to reach me ...surankande23@gmail.com
 
